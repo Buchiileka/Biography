@@ -1,0 +1,44 @@
+.columns{
+    border: 3px solid red;
+    font-weight: 200;
+
+}
+p{
+    border: 1px solid green;
+}
+
+/*.headline{
+    color: blue;
+    
+}
+
+#site headline{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    color: blueviolet;
+}
+
+h1{
+    border: 20px;
+    margin-bottom: 40px;
+    padding: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    border: 20px; color: red;
+    margin-bottom: 40px;
+    padding: 40px; color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+p{
+    padding: 30px;
+}*/
